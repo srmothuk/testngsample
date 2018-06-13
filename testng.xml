@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Example Test Suite 1" verbose="1" >
+  <test name="TestNG Assert Example1 Test" >
+    <classes>
+      <class name="basictestngtests.TestNGAssertExample1Test"/>
+    </classes>
+ </test>
+
+  <test name="TestNG Assert Example2 Test" >
+    <classes>
+      <class name="basictestngtests.TestNGAssertExample2Test"/>      
+    </classes>
+ </test>
+</suite>

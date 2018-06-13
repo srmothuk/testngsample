@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example test suite 1" duration-ms="354" started-at="2018-06-10T16:57:09Z" finished-at="2018-06-10T16:57:10Z">
+    <groups>
+    </groups>
+    <test name="TestNG Assert Example1 Test" duration-ms="180" started-at="2018-06-10T16:57:09Z" finished-at="2018-06-10T16:57:10Z">
+      <class name="basictestngtests.TestNGAssertExample1Test">
+        <test-method status="PASS" signature="FirstAndLast2CharsTheSameTest_BasicNegativeScenario_Test4()[pri:0, instance:basictestngtests.TestNGAssertExample1Test@4439f31e]" name="FirstAndLast2CharsTheSameTest_BasicNegativeScenario_Test4" duration-ms="44" started-at="2018-06-10T16:57:10Z" finished-at="2018-06-10T16:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstAndLast2CharsTheSameTest_BasicNegativeScenario_Test4 -->
+        <test-method status="PASS" signature="FirstAndLast2CharsTheSameTest_BasicPositiveScenario_Test3()[pri:0, instance:basictestngtests.TestNGAssertExample1Test@4439f31e]" name="FirstAndLast2CharsTheSameTest_BasicPositiveScenario_Test3" duration-ms="5" started-at="2018-06-10T16:57:10Z" finished-at="2018-06-10T16:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- FirstAndLast2CharsTheSameTest_BasicPositiveScenario_Test3 -->
+        <test-method status="PASS" signature="TruncateInFirst2PositionsTest_StartingWithAA_Test2()[pri:0, instance:basictestngtests.TestNGAssertExample1Test@4439f31e]" name="TruncateInFirst2PositionsTest_StartingWithAA_Test2" duration-ms="6" started-at="2018-06-10T16:57:10Z" finished-at="2018-06-10T16:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TruncateInFirst2PositionsTest_StartingWithAA_Test2 -->
+        <test-method status="PASS" signature="TruncateInFirst2PositionsTest_StartingWithNonAA_Test1()[pri:0, instance:basictestngtests.TestNGAssertExample1Test@4439f31e]" name="TruncateInFirst2PositionsTest_StartingWithNonAA_Test1" duration-ms="5" started-at="2018-06-10T16:57:10Z" finished-at="2018-06-10T16:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TruncateInFirst2PositionsTest_StartingWithNonAA_Test1 -->
+      </class> <!-- basictestngtests.TestNGAssertExample1Test -->
+    </test> <!-- TestNG Assert Example1 Test -->
+    <test name="TestNG Assert Example2 Test" duration-ms="16" started-at="2018-06-10T16:57:10Z" finished-at="2018-06-10T16:57:10Z">
+      <class name="basictestngtests.TestNGAssertExample2Test">
+        <test-method status="PASS" signature="test3()[pri:0, instance:basictestngtests.TestNGAssertExample2Test@4678c730]" name="test3" duration-ms="6" started-at="2018-06-10T16:57:10Z" finished-at="2018-06-10T16:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- basictestngtests.TestNGAssertExample2Test -->
+    </test> <!-- TestNG Assert Example2 Test -->
+  </suite> <!-- example test suite 1 -->
+</testng-results>
